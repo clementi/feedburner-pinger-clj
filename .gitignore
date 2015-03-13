@@ -4,6 +4,7 @@
 pom.xml
 pom.xml.asc
 *.jar
+!*feedburner-pinger-java*.jar
 *.class
 /.lein-*
 /.nrepl-port
