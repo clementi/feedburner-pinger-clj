@@ -8,6 +8,13 @@ At the REPL:
 
     (use 'feedburner-pinger-clj.core)
 
+In code:
+
+```clojure
+(ns com.example.your-app
+  (:require [feedburner-pinger-clj.core :as feedburner))
+```
+
 Then, you can ping a feed like this:
 
 ```clojure
