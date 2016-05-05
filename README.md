@@ -1,6 +1,6 @@
 # feedburner-pinger-clj
 
-A thin Clojure wrapper around [feedburner-pinger-java](http://github.com/clementi/feedburner-pinger-java), used to notify FeedBurner of feed updates.
+A small, idiomatic Clojure library for notifing FeedBurner of feed updates.
 
 ## Usage
 
