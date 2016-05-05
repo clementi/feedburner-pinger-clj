@@ -18,7 +18,7 @@ In code:
 Then, you can ping a feed like this:
 
 ```clojure
-(ping "http://feeds.feedburner.com/my-feed")
+(feedburner/ping "http://feeds.feedburner.com/my-feed")
 ```
 
 You will get a response map like this:
