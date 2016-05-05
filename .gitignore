@@ -11,4 +11,3 @@ pom.xml.asc
 .hgignore
 .hg/
 
-add-to-maven.cmd
